@@ -1,0 +1,22 @@
+{
+  "wheel_id": 493,
+  "structure": "umbrella",
+  "slug": "northshorekitchenrenovation-104",
+  "project": "kitchen-renovations-north-shore-what-to-expect-1cb0bbdd285800a1",
+  "parent_t1_ref": "northshorekitchenrenovation-151",
+  "node_role": "feeder",
+  "money_target": "northshorekitchenrenovation.com.au",
+  "primary_kw": "kitchen renovations north shore what to expect",
+  "intended_url": "http://kitchen-renovations-north-shore-what-to-expect-1cb0bbdd285800a1.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "dc82a6b97a07ea0d",
+  "links": [
+    {
+      "target_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/kitchen-renovations-north-shore-checklist-cff3e953946d405dca/",
+      "anchor": "Kitchen Renovations North Shore Checklist: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
